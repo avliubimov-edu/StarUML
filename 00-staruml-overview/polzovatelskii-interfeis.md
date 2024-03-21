@@ -2,7 +2,7 @@
 
 ## Главное окно <a href="#main-window" id="main-window"></a>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Главное окно StarUML</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Главное окно StarUML</p></figcaption></figure>
 
 ### Область диаграмм (редактор диаграмм) / Diagram Area (Diagram Editor) <a href="#diagram-area-diagram-editor" id="diagram-area-diagram-editor"></a>
 
@@ -90,7 +90,7 @@ _Нижняя панель_ - это панель, показанная под _
 
 Диалоговое окно шрифта позволяет редактировать стиль, размер и цвет шрифта для элементов представления.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Диалоговое окно шрифта</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Диалоговое окно шрифта</p></figcaption></figure>
 
 ### Диалоговое окно цвета / Color Dialog <a href="#color-dialog" id="color-dialog"></a>
 

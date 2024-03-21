@@ -12,7 +12,7 @@
 
 * [Варианты использования](01-lab-1/varianty-ispolzovaniya.md)
 * [Сценарий](01-lab-1/scenarii.md)
-* [Page](01-lab-1/page.md)
+* [Ход выполнения](01-lab-1/page.md)
 
 ## 2️⃣ Лабораторная работа №2 <a href="#02-lab-2" id="02-lab-2"></a>
 
