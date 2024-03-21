@@ -10,13 +10,15 @@
 
 ## Лабораторная работа № 1 <a href="#id-01-lab-1" id="id-01-lab-1"></a>
 
-* [Варианты использования](01-lab-1/varianty-ispolzovaniya.md)
+* [Варианты использования / Use Case](01-lab-1/varianty-ispolzovaniya.md)
 * [Сценарий](01-lab-1/scenarii.md)
 * [Ход выполнения](01-lab-1/page.md)
 
 ## 2️⃣ Лабораторная работа №2 <a href="#02-lab-2" id="02-lab-2"></a>
 
-* [Page 1](02-lab-2/page-1.md)
+* [Взаимодействия / Interactions](02-lab-2/vzaimodeistviya-interactions.md)
+* [Сценарий](02-lab-2/scenarii.md)
+* [Ход выполнения](02-lab-2/khod-vypolneniya.md)
 
 ## 3️⃣ Лабораторная работа № 3 <a href="#03-lab-3" id="03-lab-3"></a>
 
