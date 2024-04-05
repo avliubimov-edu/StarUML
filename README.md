@@ -36,8 +36,30 @@ layout:
 
 <summary>Лабораторная работа № 1</summary>
 
-[Варианты использования](01-lab-1/varianty-ispolzovaniya.md)
+[Варианты использования](id-01-lab-1/use-case.md)
 
-[Сценарий](01-lab-1/scenarii.md)
+[Сценар](id-01-lab-1/scenario.md)[ий](id-01-lab-1/scenario.md)
+
+[Ход выполнения](id-01-lab-1/progress.md)
+
+</details>
+
+<details>
+
+<summary>Лабораторная работа № 2</summary>
+
+[Взаимодействия](02-lab-2/interactions.md)
+
+[Сценарий](02-lab-2/scenario.md)
+
+[Ход выполнения](02-lab-2/progress.md)
+
+</details>
+
+<details>
+
+<summary>Лабораторная работа № 3</summary>
+
+
 
 </details>
