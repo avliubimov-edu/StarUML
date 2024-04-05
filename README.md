@@ -1,4 +1,5 @@
 ---
+description: В случае ошибок писать сюда https://t.me/avliubimov
 cover: >-
   https://images.unsplash.com/3/doctype-hi-res.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx1bWx8ZW58MHx8fHwxNzEwODU0ODM1fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
