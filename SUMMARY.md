@@ -14,30 +14,32 @@
 * [Сценарий](id-01-lab-1/scenario.md)
 * [Ход выполнения](id-01-lab-1/progress.md)
 
-## 2️⃣ Лабораторная работа №2 <a href="#02-lab-2" id="02-lab-2"></a>
+## 2️⃣ Лабораторная работа №2 <a href="#id-02-lab-2" id="id-02-lab-2"></a>
 
 * [Взаимодействия / Interactions](02-lab-2/interactions.md)
 * [Сценарий](02-lab-2/scenario.md)
 * [Ход выполнения](02-lab-2/progress.md)
 
-## 3️⃣ Лабораторная работа № 3 <a href="#03-lab-3" id="03-lab-3"></a>
+## 3️⃣ Лабораторная работа № 3 <a href="#id-03-lab-3" id="id-03-lab-3"></a>
 
 * [Классы и Пакеты / Classes and Packages](03-lab-3/classes-packages.md)
 * [Сценарий](03-lab-3/scenario.md)
 * [Ход выполнения](03-lab-3/progress.md)
 
-## 4️⃣ Лабораторная работа № 4 <a href="#04-lab-4" id="04-lab-4"></a>
+## 4️⃣ Лабораторная работа № 4 <a href="#id-04-lab-4" id="id-04-lab-4"></a>
 
-* [Page 3](04-lab-4/page-3.md)
+* [Oперации классов](id-04-lab-4/attributes-operations.md)
+* [Сценарий](id-04-lab-4/scenario.md)
+* [Ход выполнения](id-04-lab-4/progress.md)
 
-## 5️⃣ Лабораторная работа № 5 <a href="#05-lab-05" id="05-lab-05"></a>
+## 5️⃣ Лабораторная работа № 5 <a href="#id-05-lab-05" id="id-05-lab-05"></a>
 
 * [Page 4](05-lab-05/page-4.md)
 
-## 6️⃣ Лабораторная работа № 6 <a href="#06-lab-06" id="06-lab-06"></a>
+## 6️⃣ Лабораторная работа № 6 <a href="#id-06-lab-06" id="id-06-lab-06"></a>
 
 * [Page 5](06-lab-06/page-5.md)
 
-## 7️⃣ Лабораторная работа № 7 <a href="#07-lab-07" id="07-lab-07"></a>
+## 7️⃣ Лабораторная работа № 7 <a href="#id-07-lab-07" id="id-07-lab-07"></a>
 
 * [Page 5](07-lab-07/page-5.md)
